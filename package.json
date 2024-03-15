@@ -1,0 +1,28 @@
+{
+  "name": "nokiaphone",
+  "version": "1.0.3",
+  "description": "nokiaphone appware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sign-alex": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ghost": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenkimanh14831/nokiaphone"
+  },
+  "homepage": "https://github.com/nguyenkimanh14831",
+  "keywords": [
+    "sign",
+    "add",
+    "sign",
+    "apart"
+  ],
+  "author": "nokiaphone",
+  "license": "NOK"
+}
